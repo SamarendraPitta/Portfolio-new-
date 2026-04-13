@@ -8,6 +8,7 @@ import Hero from "./components/Hero";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Blogs from "./components/Blogs";
 import Footer from "./components/Footer";
 import { motion, useScroll, useSpring } from "motion/react";
 
@@ -36,6 +37,7 @@ export default function App() {
           <Experience />
           <Projects />
           <Skills />
+          <Blogs />
         </div>
       </main>
 

@@ -17,6 +17,7 @@ export default function Navbar() {
         <a href="#experience" className="text-sm font-medium transition-colors hover:text-muted-foreground">Experience</a>
         <a href="#projects" className="text-sm font-medium transition-colors hover:text-muted-foreground">Projects</a>
         <a href="#skills" className="text-sm font-medium transition-colors hover:text-muted-foreground">Skills</a>
+        <a href="#blogs" className="text-sm font-medium transition-colors hover:text-muted-foreground">Blogs</a>
       </div>
 
       <div className="flex items-center gap-4">

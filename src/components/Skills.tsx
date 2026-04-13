@@ -6,6 +6,8 @@ export default function Skills() {
   const categories = [
     { name: "Languages", items: resumeData.skills.languages },
     { name: "Backend & Frameworks", items: resumeData.skills.backend },
+    { name: "Frontend", items: resumeData.skills.frontend },
+    { name: "AI/ML & Agents", items: resumeData.skills.ai_ml },
     { name: "Distributed Systems", items: resumeData.skills.distributed },
     { name: "Databases", items: resumeData.skills.databases },
     { name: "Cloud & Infrastructure", items: resumeData.skills.cloud },

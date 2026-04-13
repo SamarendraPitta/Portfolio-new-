@@ -58,11 +58,21 @@ export const resumeData = {
   skills: {
     languages: ["Java", "Python", "C", "JavaScript", "SQL", "HTML", "CSS"],
     backend: ["Spring Boot", "Spring Security", "JPA", "Hibernate", "Node.js"],
+    frontend: ["HTML", "CSS", "JS", "React", "TypeScript"],
+    ai_ml: ["Python", "Flask", "Fast API", "ML Libraries", "LLM Integration", "RAG", "MCP"],
     distributed: ["Apache Kafka", "RabbitMQ", "Microservices", "REST API Design"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "Cassandra"],
     cloud: ["AWS (ECS, Lambda, S3, API Gateway)", "Docker", "Kubernetes", "Linux", "Git"],
     testing: ["Prometheus", "Grafana", "JUnit", "Mockito", "TDD"]
   },
+  blogs: [
+    {
+      title: "Diving into AI/ML to build Agents",
+      date: "Recent",
+      description: "Exploring the frontier of AI by learning new stacks including LLMs, RAG, LangChain, and Agents. Currently focused on building autonomous agents using the Model Context Protocol (MCP).",
+      tags: ["AI", "LLM", "RAG", "LangChain", "Agents", "MCP"]
+    }
+  ],
   projects: [
     {
       title: "Distributed Data Store Replication System",
