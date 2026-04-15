@@ -88,6 +88,16 @@ export const resumeData = {
       title: "RPC-Based Distributed Computing Platform",
       description: "Built a fault-tolerant 5-node distributed computing platform in C using Sun RPC and round-robin scheduling, achieving dynamic load balancing.",
       tags: ["C", "RPC", "Distributed Computing", "Load Balancing"]
+    },
+    {
+      title: "Car Rental Service",
+      description: "Built and deployed a production-grade full-stack car rental platform with Node.js, MySQL, and RESTful APIs powering end-to-end booking workflows, integrated AWS SES for automated customer notifications, and hosted on a VPS.",
+      tags: ["React.js", "Node.js", "AWS", "MySQL"]
+    },
+    {
+      title: "Savoring Insights",
+      description: "Analyzed 40M+ restaurant reviews using Big Data and NLP, extracting features with Apriori and performing sentiment analysis (85% accuracy) with category-level insights using MongoDB and Flask.",
+      tags: ["Python", "Flask", "MongoDB", "Apriori Algorithm", "Naive Bayes", "NLP (WordNet)", "React.js"]
     }
   ],
   education: [
